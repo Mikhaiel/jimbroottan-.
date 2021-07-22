@@ -1,10 +1,10 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/72667834?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Jinnh🧞‍♂️" src="https://img.shields.io/badge/Jinnh🧞‍♂️-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Jimbrootan🧞‍♂️" src="https://img.shields.io/badge/Jimbrootan🧞‍♂️-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Mikhaiel"><img title="Author" src="https://img.shields.io/badge/Author-Mikhaiel-Offical/Jinnh?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Mikhaiel"><img title="Author" src="https://img.shields.io/badge/Author-Mikhaiel-Offical/Jimbrootan?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -18,13 +18,13 @@ Project created by <a href="https://github.com/Mikhaiel">Mikhaiel</a> to make it
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Mikhaiel/Jinnh">
-    <img src="https://img.shields.io/github/repo-size/Mikhaiel/Jinnh?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Mikhaiel/Jimbrootan">
+    <img src="https://img.shields.io/github/repo-size/Mikhaiel/Jimbrootan?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Mikhaiel/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mikhaiel?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mikhaiel/Jinnh/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mikhaiel/Jinnh?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mikhaiel/Jinnh/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mikhaiel/Jinnh?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mikhaiel/Jinnh/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mikhaiel/Jinnh?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Mikhaiel/Jimbrootan/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mikhaiel/Jinnh?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mikhaiel/Jimbrootan/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mikhaiel/Jinnh?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mikhaiel/Jimbrootan/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mikhaiel/Jinnh?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -32,10 +32,10 @@ Project created by <a href="https://github.com/Mikhaiel">Mikhaiel</a> to make it
 Click WA logo for Support 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.me/+919544846609)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Buyz3sEdhaWB0Rp7gtsKjd)
   <div align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikhaiel&repo=Jinnh&theme=nightowl)](https://github.com/Mikhaiel/Jinnh)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikhaiel&repo=Jimbrootan&theme=nightowl)](https://github.com/Mikhaiel/Jimbrootan)
   </div>
 
 ## Setup
@@ -45,7 +45,7 @@ Click WA logo for Support 👇
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mikhaiel/Jinnh)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mikhaiel/Jimbrootan)
      </div>
 <br>
 <br >
@@ -60,8 +60,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Mikhaiel/Jinnh
-$ cd Jinnh
+$ git clone https://github.com/Mikhaiel/Jimbrootan
+$ cd Jimbrootan
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -70,8 +70,8 @@ $ node qr.js
 
 ```js
 SETUP
-$ git clone https://github.com/Mikhaiel/Jinnh
-$ cd Jinnh
+$ git clone https://github.com/Mikhaiel/Jimbrootan
+$ cd Jimbrootan
 $ chmod +x *
 $ npm i
 $ node qr.js
