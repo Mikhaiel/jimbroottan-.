@@ -11,11 +11,9 @@
 </p>
 </div>
 <p align="center">
-  
-##Project created by <a href="https://github.com/Mikhaiel">Mikhaiel</a> to make it public
+  Project created by <a href="https://github.com/Mikhaiel">Mikhaiel</a> to make it public
     <br>
-       | © |
-        Reserved |
+       © Reserved 
     <br>
 </p>
 
@@ -53,7 +51,7 @@ Click WA logo for Support 👇
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+## If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
 bash <(curl -L https://t.ly/tHxh)
 ```
